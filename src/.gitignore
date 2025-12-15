@@ -1,0 +1,14 @@
+# Ignore Virtual Environment (Crucial!)
+venv/
+.env
+
+# Ignore Large Data
+data/creditcard.csv
+data/results.csv
+
+# Ignore System Files
+__pycache__/
+*.pyc
+kafka/
+zookeeper/
+.vscode/

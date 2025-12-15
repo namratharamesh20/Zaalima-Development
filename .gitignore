@@ -1,0 +1,8 @@
+venv/
+data/creditcard.csv
+data/results.csv
+__pycache__/
+*.pyc
+.vscode/
+kafka/
+zookeeper/
